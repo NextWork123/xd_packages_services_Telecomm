@@ -37,6 +37,7 @@ import android.os.VibrationEffect;
 import android.os.Vibrator;
 import android.telecom.Log;
 import android.telecom.TelecomManager;
+import android.provider.Settings;
 
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.server.telecom.LogUtils.EventTimer;
